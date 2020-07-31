@@ -1,2 +1,3 @@
-# HTML
-I'm learning html and want to learn how to use git and git-hub
+# Html
+This is a git repository.
+I'm learning Html and also learning how to use git and github.
